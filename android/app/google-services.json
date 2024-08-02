@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64628868991",
+    "project_id": "chatapp-ec081",
+    "storage_bucket": "chatapp-ec081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64628868991:android:ddd2468003217611ccbc4a",
+        "android_client_info": {
+          "package_name": "sameer.example.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_xsY4YaNdNJlixDqWRyPwlNHwBH09Yrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
